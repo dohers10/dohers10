@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dohers10
 - 👀 I’m interested in sports, technology and being a dad.
-- 🌱 I’m currently learning cloud computing and python with a strong background of networking. 
+- 🌱 I’m currently learning cloud computing and python with a background in networking. 
 
 
 <!---
